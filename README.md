@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ivanilsonjunior
 - 👀 I’m interested in computing
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and networking
 - 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me email, whatsapp, twitter, sms, smoke signal..
 
